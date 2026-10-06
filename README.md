@@ -2,7 +2,7 @@
 
 **A Scottware utility.** Create. Edit. Make it yours.
 
-Created by **Scottware Software** — Built clean. Runs smooth. The Scottware maker logo appears in the editor header and **Scottware PaintMac → About Scottware PaintMac**.
+Created by **Scottware Software** — Built clean. Runs smooth.**.
 
 A native macOS raster editor inspired by Paint.NET, built with Swift, AppKit, Core Graphics, and Core Image. Runs directly on macOS 13+.
 
